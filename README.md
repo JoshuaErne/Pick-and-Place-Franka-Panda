@@ -13,5 +13,5 @@ Packages- First make sure you have [panda_simulator](https://github.com/justagis
 
 <!-- ![rrt_algo](imgs/rrt_algo.png) -->
 
-<img src=Images/pickplace.gif height="489" width="567" > <p></p>
+<img src=Images/pickplace.gif> <p></p>
 Live Competition Blue(Our Team) vs Red
