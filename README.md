@@ -2,7 +2,7 @@
 
 ## Our Project
 <div style="text-align: justify">
-Developed a stable and robust system for both static and dynamic block acquisition. Our code was extensivelytested in simulation and sufficiently tested on the physical robot and performs well in both environments. Different strategies and scenarios were tested in both simulation and on the physical robot, and we implemented a robust solution to precisely stack stationery and dynamic blocks on the target platform in an efficient and safe manner by implementing Forward and Inverse kinematics, obstacle avoidance and path planning concepts. Our code can also stack tag 5 blocks with the white side, but we chose to skip this step in the competition because the flipping process took more time than it would to stack two dynamic blocks.
+Developed a stable and robust system for both static and dynamic block acquisition. Our code was extensively tested in simulation and sufficiently tested on the physical robot and performs well in both environments. Different strategies and scenarios were tested in both simulation and on the physical robot, and we implemented a robust solution to precisely stack stationery and dynamic blocks on the target platform in an efficient and safe manner by implementing <b>Forward and Inverse kinematics</b>, <b>obstacle avoidance</b> and <b>path planning concepts</b> such as <b>RRT</b>. Our code can also stack tag 5 blocks with the white side, but we chose to skip this step in the competition because the flipping process took more time than it would to stack two dynamic blocks.
 </div>
 
 ## Usage:
